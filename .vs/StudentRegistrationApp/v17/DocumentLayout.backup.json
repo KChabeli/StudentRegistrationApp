@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part1\\StudentRegistrationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9C9A3E-06F0-44EA-892B-1325D68C8625}|StudentRegistrationApp\\StudentRegistrationApp.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211part1\\studentregistrationapp\\studentregistrationapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E9C9A3E-06F0-44EA-892B-1325D68C8625}|StudentRegistrationApp\\StudentRegistrationApp.csproj|solutionrelative:studentregistrationapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9C9A3E-06F0-44EA-892B-1325D68C8625}|StudentRegistrationApp\\StudentRegistrationApp.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211part1\\studentregistrationapp\\studentregistrationapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E9C9A3E-06F0-44EA-892B-1325D68C8625}|StudentRegistrationApp\\StudentRegistrationApp.csproj|solutionrelative:studentregistrationapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9C9A3E-06F0-44EA-892B-1325D68C8625}|StudentRegistrationApp\\StudentRegistrationApp.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211part1\\studentregistrationapp\\studentregistrationapp\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E9C9A3E-06F0-44EA-892B-1325D68C8625}|StudentRegistrationApp\\StudentRegistrationApp.csproj|solutionrelative:studentregistrationapp\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9C9A3E-06F0-44EA-892B-1325D68C8625}|StudentRegistrationApp\\StudentRegistrationApp.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211part1\\studentregistrationapp\\studentregistrationapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E9C9A3E-06F0-44EA-892B-1325D68C8625}|StudentRegistrationApp\\StudentRegistrationApp.csproj|solutionrelative:studentregistrationapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9C9A3E-06F0-44EA-892B-1325D68C8625}|StudentRegistrationApp\\StudentRegistrationApp.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211part1\\studentregistrationapp\\studentregistrationapp\\studentregistrationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E9C9A3E-06F0-44EA-892B-1325D68C8625}|StudentRegistrationApp\\StudentRegistrationApp.csproj|solutionrelative:studentregistrationapp\\studentregistrationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part1\\StudentRegistrationApp\\StudentRegistrationApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part1\\StudentRegistrationApp\\StudentRegistrationApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "StudentRegistrationApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:55:25.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part1\\StudentRegistrationApp\\StudentRegistrationApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "StudentRegistrationApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part1\\StudentRegistrationApp\\StudentRegistrationApp\\MainWindow.xaml",
+              "RelativeToolTip": "StudentRegistrationApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-11T17:55:29.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRegistrationApp.csproj",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part1\\StudentRegistrationApp\\StudentRegistrationApp\\StudentRegistrationApp.csproj",
+              "RelativeDocumentMoniker": "StudentRegistrationApp\\StudentRegistrationApp.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part1\\StudentRegistrationApp\\StudentRegistrationApp\\StudentRegistrationApp.csproj",
+              "RelativeToolTip": "StudentRegistrationApp\\StudentRegistrationApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T17:56:47.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part1\\StudentRegistrationApp\\StudentRegistrationApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationApp\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part1\\StudentRegistrationApp\\StudentRegistrationApp\\Models\\Student.cs",
+              "RelativeToolTip": "StudentRegistrationApp\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:58:53.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part1\\StudentRegistrationApp\\StudentRegistrationApp\\Resources\\Styles.xaml",
+              "RelativeDocumentMoniker": "StudentRegistrationApp\\Resources\\Styles.xaml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part1\\StudentRegistrationApp\\StudentRegistrationApp\\Resources\\Styles.xaml",
+              "RelativeToolTip": "StudentRegistrationApp\\Resources\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-18T15:32:01.385Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
